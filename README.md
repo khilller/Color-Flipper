@@ -1,3 +1,2 @@
 # Color-Flipper
-Project from freeCodeCamp.org
-Course created by John Smilga
+Project from freeCodeCamp.org course created by John Smilga.
